@@ -51,7 +51,7 @@ Integrate a new action in Android's native Share Sheet UI: **"Share & Delete"**.
 
 ## 🧾 Attribution Request
 
-*This feature was proposed by **Vicky**, student innovator, on **July 20, 2025**. If implemented in Android or other systems, attribution and credit are respectfully requested.*
+*This feature was proposed by **Vikram Jat**, student innovator, on **July 20, 2025**. If implemented in Android or other systems, attribution and credit are respectfully requested.*
 
 ## 🔗 License
 
@@ -64,4 +64,4 @@ You are free to:
 
 **Under the following terms:**
 
-* Credit must be given to **Vicky**, the original creator.
+* Credit must be given to **Vikram Jat**, the original creator.
